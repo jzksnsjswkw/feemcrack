@@ -1,0 +1,9 @@
+Package: com.jzksnsjswkw.feemcrack
+Name: feemcrack
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: jzksnsjswkw
+Author: jzksnsjswkw
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
